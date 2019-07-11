@@ -3,3 +3,4 @@ title: AhoY S03!
 description: This is an experimental project.
 name: Robyn, Ahoy. Scoopers!
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
