@@ -4,6 +4,12 @@ layout: default
 <h1>{{ page.title }}</h1>
 <p class="meta">{{ page.date | date_to_string }}</p>
 
-<div class="post">
+<div class="post" style="text-align: justify">
   {{ content }}
+</div>
+
+<div class="footnote" style="font-size: 8pt">
+  {{ page.footnote }}
+  <br>
+  <br>
 </div>

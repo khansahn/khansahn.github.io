@@ -258,6 +258,7 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages
+  jemoji
   nokogiri
   rack (~> 2.0.1)
   rspec
